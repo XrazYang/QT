@@ -37,4 +37,11 @@
 
 第十四个项目：Test_13 ，正则表达式的使用；
 
-第十五个项目：Test_14 ，使用socket的UDP 通宵，完成在两台PC之间文本的传输（测试环境是ubuntu 和 deeping）
+第十五个项目：Test_14 ，使用socket的UDP 通宵，完成在两台PC之间文本的传输（测试环境是ubuntu 和 deepin）
+
+
+第十六个项目到第十八个项目： Test_15-Test_17，QT的文件操作，包括 QFIle ,QDataStream,QTextStream,QBuffer以及QFileInfo的使用测试。
+
+
+
+宁静致远，奋斗在全栈工程师路上的程序狗。
